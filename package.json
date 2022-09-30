@@ -2,5 +2,8 @@
   "dependencies": {},
   "devDependencies": {
     "bun-types": "^0.1.2"
+  },
+  "scripts": {
+    "test": "bun wiptest"
   }
 }
