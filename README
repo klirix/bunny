@@ -1,0 +1,5 @@
+# Bunny
+
+A simple zero-dependency, blazing fast message broker. Mainly used to learn about Bun and timing techniques in JS
+
+It uses built in SQLite as a data backend. It's fairly fast and provides synchronyous api.
